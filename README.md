@@ -1,7 +1,7 @@
 ## Hi there, I'm [Lucas][website]
 
 - I’m a developer who is focusing on web development
-- I’m currently looking for a job
+- I'm a recent graduate of the Computer Programmer/Analyst course at Conestoga College
 - 2020 Goals: Learn more about web development and find a fun job to help improve my skills
 - Fun fact: I enjoy video editing (for games) and creating custom keyboards
 
