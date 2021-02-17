@@ -8,7 +8,7 @@
     - Decide on front-end or back-end web development and then:
       - If front-end, improve responsive design and practice making websites that businesses would want
       - If back-end, learn NodeJs
-      - Finally, continue learning react
+    - Finally, continue learning react
   - Find a fun job to help improve my skills
 - Fun fact: I enjoy video editing (for games) and creating custom keyboards
 
