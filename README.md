@@ -10,7 +10,7 @@
       - If back-end, learn NodeJs
     - Finally, continue learning react
   - Find a fun job to help improve my skills
-- Fun fact: I enjoy video editing (for games) and creating custom keyboards
+- Fun facts: I enjoy video editing (for games) and creating custom keyboards
 
 ### Connect with me:
 
