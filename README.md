@@ -4,13 +4,13 @@
 - I'm a recent graduate of the Computer Programmer/Analyst course at Conestoga College
 - 2021 Goals: 
   - Learn more about web development
-    - Improve my JavaScript skills
-    - Decide on front-end or back-end web development and then:
-      - If front-end, improve responsive design and practice making websites that businesses would want
-      - If back-end, learn NodeJs
-    - Finally, continue learning react
+  - Improve my JavaScript skills
+  - Decide on front-end or back-end web development and then:
+    - If front-end, improve responsive design and practice making websites that businesses would want
+    - If back-end, learn how to create REST APIs using NodeJs, ExpressJs etc...
+  - Finally, continue learning react
   - Find a fun job to help improve my skills
-- Fun facts: I enjoy video editing (for games) and creating custom keyboards
+- Fun facts: I enjoy a bit of video editing and building custom keyboards
 
 ### Connect with me:
 
