@@ -4,10 +4,9 @@
 - I'm a recent graduate of the Computer Programmer/Analyst course at Conestoga College
 - 2022 Goals: 
   - Learn more about web development in general
-  - Improve on my C# skills
-  - Focus on back-end development via ASP.Net Core MVC
-  - Finally, continue learning react
-  - Find a fun job to help improve my skills
+  - Improve on front-end development
+  - Learn React
+  - Lastly, find a fun job to help improve my skills
 - Fun facts: I enjoy a bit of video editing and building custom keyboards
 
 ### Connect with me:
