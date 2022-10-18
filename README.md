@@ -10,10 +10,6 @@
 
 🔭 I’m currently working on the final details of my personal website (iteration 3)<br>🌱 I’m currently learning React with (Next.js) for future projects<br>⚡ Fun fact: I love building custom keyboards
 
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/lucas-winkler) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/lucasjwinkler) [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge)](https://www.lucaswinkler.dev/)
-
 ## 💻 Tech Stack:
 
 #### Languages
