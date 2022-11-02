@@ -11,7 +11,8 @@
 
 - I just worked out the final details for my personal website (iteration 3)
 - I’m currently learning React and Next.js for future projects
-- Oh and I love building custom keyboards
+- I love building custom keyboards
+- Oh and you should checkout my portfolio @ https://www.lucaswinkler.dev/
 
 # 📊 GitHub Stats:
 
