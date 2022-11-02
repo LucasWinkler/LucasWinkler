@@ -8,7 +8,10 @@
 
 # 💫 About Me:
 
-🔭 I just worked out the final details for my personal website (iteration 3)<br>🌱 I’m currently learning React with (Next.js) for future projects<br>⚡ Fun fact: I love building custom keyboards
+
+- I just worked out the final details for my personal website (iteration 3)
+- I’m currently learning React and Next.js for future projects
+- Oh and I love building custom keyboards
 
 ## 💻 Tech Stack:
 
