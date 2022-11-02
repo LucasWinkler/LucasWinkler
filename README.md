@@ -13,55 +13,11 @@
 - I’m currently learning React and Next.js for future projects
 - Oh and I love building custom keyboards
 
-## 💻 Tech Stack:
-
-#### Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![C#](https://img.shields.io/badge/csharp-000?style=for-the-badge&logo=csharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-
-#### JS Framework/Library
-
-![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/-ViteJS-000?style=for-the-badge&logo=vite)
-
-#### CSS Framework/Library/Pre-processors
-
-![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
-
-#### Design/Visual Tools
-
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/-Adobe%20Photoshop-000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-
-#### Backend
-
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
-![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
-
-#### Web Hosting
-
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
-
-#### Package Manager
-
-![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
-
-#### Version Control
-
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=lucaswinkler&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lucaswinkler&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswinkler&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=lucaswinkler&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucaswinkler&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswinkler&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
