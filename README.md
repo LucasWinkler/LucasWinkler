@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/lucas-winkler" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
 
-# 💫 About Me:
+# 💫 About:
 
 
 - I just worked out the final details for my personal website (iteration 3)
