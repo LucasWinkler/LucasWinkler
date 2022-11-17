@@ -10,7 +10,15 @@
 
 
 - I just worked out the final details for my personal website (iteration 3)
-- I’m currently learning React and Next.js for future projects
+- I’m currently learning React with Next.js by creating a fullstack bug-tracking web application
+  - This stack is currently:
+    - Next.js (React)
+    - Next-Auth
+    - Prisma 
+    - TailwindCSS (trying this out instead of SASS)
+    - HeadlessUI (also trying this out with tailwind for accessible components)
+    - Heroicons
+    - Nodemailer
 - I love building custom keyboards
 - Oh and you should checkout my portfolio @ https://www.lucaswinkler.dev/
 
