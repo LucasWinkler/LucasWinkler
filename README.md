@@ -11,8 +11,8 @@
 
 - I just worked out the final details for my personal website (iteration 3)
 - I’m currently learning React with Next.js by creating a fullstack bug-tracking web application
-  - This project is being made with Next.js (React), Prisma, Tailwind CSS and more.
-- I love building custom keyboards.
+  - This project is being made with Next.js (React), Prisma, Tailwind CSS and more
+- I love building custom keyboards
 - Oh and you should checkout my portfolio @ https://www.lucaswinkler.dev/.
 
 # 📊 GitHub Stats:
