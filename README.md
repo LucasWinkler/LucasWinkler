@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋🏻, I'm Lucas Winkler </br> 
+<h1 align="center"> Hi 👋🏻, I'm Lucas Winkler! </br> 
 </h1>
 <p align="center">
 <a href="https://twitter.com/LucasJWinkler" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
