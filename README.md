@@ -13,7 +13,7 @@
 - I’m currently learning React with Next.js by creating a fullstack bug-tracking web application
   - This project is being made with Next.js (React), Prisma, Tailwind CSS and more
 - I love building custom keyboards
-- Oh and you should checkout my portfolio @ https://www.lucaswinkler.dev/
+- Oh and you should checkout my portfolio @ https://www.lucaswinkler.dev
 
 # 📊 GitHub Stats:
 
