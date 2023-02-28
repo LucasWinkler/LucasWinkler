@@ -10,8 +10,8 @@
 
 
 - I just worked out the final details for my personal website (iteration 3)
-- I'm open to work.
-- I'm currently creating a Guess The Rank and Wordle inspired browser game using Next.js (React), Prisma, Tailwind CSS and more.
+- I'm open to work
+- I'm currently creating a Guess The Rank and Wordle inspired browser game using Next.js (React), Prisma, Tailwind CSS and more
 - I love building custom keyboards
 - Oh and you should checkout my portfolio @ https://www.lucaswinkler.dev
 
