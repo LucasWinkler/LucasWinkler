@@ -9,8 +9,8 @@
 # 💫 About:
 
 
-- I just worked out the final details for my personal website (iteration 3)
-- I'm currently creating a guess the rank web-based game using Next.js (React), Prisma, Tailwind CSS and more
+- I'm currently creating a full-stack guess the rank web-based game using Next.js (React), Prisma, Tailwind CSS and more.
+- I'm going to be creating a front-end focused website after I finish rankguess
 - I'm open to work
 - I love building custom keyboards
 - Oh and you should checkout my portfolio @ https://www.lucaswinkler.dev
