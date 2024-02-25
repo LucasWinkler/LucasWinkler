@@ -6,14 +6,14 @@
 <a href="https://linkedin.com/in/lucas-winkler" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
 
-# 💫 About:
+## 💫 About:
 
 
 - I'm open to work
 - I love building custom keyboards
 - Oh and you should checkout my portfolio @ https://www.lucaswinkler.dev
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lucaswinkler&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswinkler&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
