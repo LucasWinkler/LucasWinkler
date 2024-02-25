@@ -9,8 +9,6 @@
 # 💫 About:
 
 
-- I'm currently developing an audiophile e-commerce website with a strong emphasis on achieving a seamless transition from design to the final product, ensuring it closely resembles the original design.
-- After that I'll possibly pick up my last project "RankGuess" which is a full-stack guess the rank web-based game using Next.js (React), Prisma, Tailwind CSS and more.
 - I'm open to work
 - I love building custom keyboards
 - Oh and you should checkout my portfolio @ https://www.lucaswinkler.dev
