@@ -1,23 +1,19 @@
-<h1 align="center"> Hi 👋🏻, I'm Lucas Winkler! </br> 
-</h1>
-<p align="center">
-<a href="https://twitter.com/LucasJWinkler" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.lucaswinkler.dev/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=none&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/lucas-winkler" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-</p>
-
-## 💫 About:
-
-
-- I'm open to work
-- I love building custom keyboards
-- Oh and you should checkout my portfolio @ https://www.lucaswinkler.dev
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=lucaswinkler&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswinkler&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=2500&pause=1000&color=A570FD&vCenter=true&random=false&width=515&height=24&lines=Hey+there%2C+I'm+Lucas+Winkler!;I+build+pixel-perfect+user-interfaces)](https://git.io/typing-svg)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=lucaswinkler&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+### About
+
+-   👋 Hi, I’m **Lucas Winkler**. Front-end developer and custom keyboard enthusiast.
+-   🌱 I’m currently learning **Next.js + TypeScript** using things like **Tailwind CSS** and **Shadcn/ui**.
+-   🤝 I’m currently seeking new opportunities.
+-   📂 Oh and you should checkout my portfolio at **[www.lucaswinkler.dev](https://www.lucaswinkler.dev/)**.
+
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img alt="Lucas' GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaswinkler&theme=tokyonight&hide_border=true"><br/>
+  <img alt="Lucas' top programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswinkler&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+</p>
