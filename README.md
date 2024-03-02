@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=2500&pause=1000&color=A570FD&vCenter=true&random=false&width=515&height=24&lines=Hey+there%2C+I'm+Lucas+Winkler!;I+build+pixel-perfect+user-interfaces)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2500&pause=1000&color=A570FD&vCenter=true&random=false&width=520&height=24&lines=Hey+there%2C+I'm+Lucas+Winkler!;I+build+pixel-perfect+user-interfaces)](https://git.io/typing-svg)
 
 ---
 
