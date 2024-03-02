@@ -6,8 +6,9 @@
 
 -   👋 Hi, I’m **Lucas Winkler**, a front-end developer and custom keyboard enthusiast.
 -   🌱 I’m currently learning **Next.js + TypeScript** using things like **Tailwind CSS** and **Shadcn/ui**.
--   🤝 I’m currently seeking new opportunities.
--   🌐 Oh and you should checkout my portfolio at **[www.lucaswinkler.dev](https://www.lucaswinkler.dev/)**.
+-   🎯 I plan to build a full-stack project while learning [Conventional Commits](https://www.conventionalcommits.org/) to improve commit readability.
+-   🤝 I’m seeking new opportunities.
+-   🌐 Oh and you should checkout my portfolio at [www.lucaswinkler.dev](https://www.lucaswinkler.dev/).
 
 ---
 
