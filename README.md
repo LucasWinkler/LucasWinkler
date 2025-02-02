@@ -4,9 +4,8 @@
 
 ### About
 
--   👋 Hi, I’m **Lucas Winkler**, a front-end developer and custom keyboard enthusiast.
--   🌱 I’m currently learning **Next.js + TypeScript** using things like **Tailwind CSS** and **Shadcn/ui**.
--   🎯 I plan to build a full-stack project while learning [Conventional Commits](https://www.conventionalcommits.org/) to improve commit readability.
+-   👋 Hi, I’m **Lucas Winkler**, a full-stack developer and custom keyboard enthusiast.
+-   🎯 I'm currently building [https://poitogo.vercel.app/](PoiToGo) with Next.js, TypeScript and Tailwind CSS.
 -   🤝 I’m seeking new opportunities.
 -   🌐 Oh and you should checkout my portfolio at [www.lucaswinkler.dev](https://www.lucaswinkler.dev/).
 
