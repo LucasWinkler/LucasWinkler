@@ -5,7 +5,7 @@
 ### About
 
 -   👋 Hi, I’m **Lucas Winkler**, a full-stack developer and custom keyboard enthusiast.
--   🎯 I'm currently building [https://poitogo.vercel.app/](PoiToGo) with Next.js, TypeScript and Tailwind CSS.
+-   🎯 I'm currently building [PoiToGo](https://poitogo.vercel.app/) with Next.js, TypeScript and Tailwind CSS.
 -   🤝 I’m seeking new opportunities.
 -   🌐 Oh and you should checkout my portfolio at [www.lucaswinkler.dev](https://www.lucaswinkler.dev/).
 
