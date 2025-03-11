@@ -14,6 +14,7 @@
 ### GitHub Stats
 
 <p align="left">
-  <img alt="Lucas' GitHub stats" src="https://streak-stats.demolab.com/?user=lucaswinkler&theme=tokyonight&hide_border=true"><br/>
+  <img alt="Lucas' GitHub stats" src="https://streak-stats.demolab.com/demo/preview.php?user=lucaswinkler&theme=tokyonight&hide_border=true"><br/>
   <img alt="Lucas' top programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswinkler&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
+
