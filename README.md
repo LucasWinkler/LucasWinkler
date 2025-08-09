@@ -5,8 +5,7 @@
 ### About
 
 -   👋 Hi, I’m **Lucas Winkler**, a full-stack developer and custom keyboard enthusiast.
--   🎯 I just built [Expedius](https://expedius.app/), a web app that lets users efficiently discover and save points of interest.
--   🤝 I’m seeking new opportunities.
+-   🎯 I built [Expedius](https://expedius.app/), a web app that lets users efficiently discover and save points of interest.
 -   🌐 Oh and you should checkout my portfolio at [www.lucaswinkler.dev](https://www.lucaswinkler.dev/).
 
 ---
